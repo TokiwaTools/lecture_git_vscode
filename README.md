@@ -1,2 +1,2 @@
-# [便利ツールLT](https://twitter.com/meiji_ncc/status/985456457884745729)
-- [スライド](https://kiito.me/lecture_tools)
+# [ボカロLT'18 April](https://atnd.org/events/96358)
+- [スライド](https://kiito.me/lecture_vocalo_201804)
