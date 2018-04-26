@@ -7,11 +7,11 @@
 
 ---
 
-## ジミーサムP ツアー
+# ジミーサムP ツアー
 
 ---
 
-### [ジミーサムP](https://twitter.com/jimmythumb)
+## [ジミーサムP](https://twitter.com/jimmythumb)
 
 |||
 
@@ -24,10 +24,58 @@
 
 ---
 
-### 代表曲
+## 代表曲
+
+##### みんな知ってる名曲
 
 |||
 
-#### [Calc.](http://www.nicovideo.jp/watch/sm12050471)
+### [Calc.](http://www.nicovideo.jp/watch/sm12050471)
 
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm12050471/script?w=720&h=480"></script><noscript><a href="http://www.nicovideo.jp/watch/sm12050471">初音ミクオリジナル曲 「Calc.」</a></noscript>
+- 2010/09/09
+- 288万再生
+
+|||
+
+### [from Y to Y](http://www.nicovideo.jp/watch/sm6529016)
+
+- 2009/03/24
+- 261万再生
+
+---
+
+## イチオシ曲
+
+##### 隠れた良曲
+
+|||
+
+### [No Logic](http://www.nicovideo.jp/watch/sm8228650)
+
+|||
+
+### [PYX](http://www.nicovideo.jp/watch/sm20738973)
+
+---
+
+## 駆け出し時代
+
+##### MIXに迷いがあるけど素朴で伝わる曲
+
+|||
+
+### [Pierrot](http://www.nicovideo.jp/watch/sm9621047)
+
+|||
+
+### [Scene](http://www.nicovideo.jp/watch/sm4748812)
+
+|||
+
+### [Fake Lover](http://www.nicovideo.jp/watch/sm6237621)
+
+|||
+
+### [Parallel Universe](http://www.nicovideo.jp/watch/sm24606775)
+
+##### MIXが改善されたトリビュートアルバム
