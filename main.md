@@ -11,7 +11,23 @@
 
 ---
 
-### ジミーサムP
+### [ジミーサムP](https://twitter.com/jimmythumb)
+
+|||
+
+![](https://pbs.twimg.com/profile_images/522376628509233154/sFIGEdZF_400x400.jpeg)
+
+- 2008年から活動している古参ボカロP
+- 動画のサムネが地味なのでジミーサムPと呼ばれるように
+- 心が洗われるような曲が多い
+- 最近は活動していない
 
 ---
 
+### 代表曲
+
+|||
+
+#### [Calc.](http://www.nicovideo.jp/watch/sm12050471)
+
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm12050471/script?w=720&h=480"></script><noscript><a href="http://www.nicovideo.jp/watch/sm12050471">初音ミクオリジナル曲 「Calc.」</a></noscript>
