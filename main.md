@@ -1,4 +1,4 @@
-# ボカロLT'18 April
+# [ボカロLT'18 April](https://atnd.org/events/96358)
 
 <h3>
     <img src="https://kiito.me/assets/img/icons/tokiwa.png" style="margin:0; background: none; border:0; vertical-align:middle" height=60vw />
@@ -32,15 +32,17 @@
 
 ### [Calc.](http://www.nicovideo.jp/watch/sm12050471)
 
-- 2010/09/09
-- 288万再生
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9VMAYeun4Ds?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+###### 2010/09/09投稿 288万再生
 
 |||
 
 ### [from Y to Y](http://www.nicovideo.jp/watch/sm6529016)
 
-- 2009/03/24
-- 261万再生
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDTiyUm5ggM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+###### 2009/03/24投稿 261万再生
 
 ---
 
@@ -52,9 +54,15 @@
 
 ### [No Logic](http://www.nicovideo.jp/watch/sm8228650)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R1rEGFtdIOQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+###### 「完璧な生き方なんてできないから」
+
 |||
 
 ### [PYX](http://www.nicovideo.jp/watch/sm20738973)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xvRzylkiC98?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
@@ -66,16 +74,24 @@
 
 ### [Pierrot](http://www.nicovideo.jp/watch/sm9621047)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU07aANLUQQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 |||
 
 ### [Scene](http://www.nicovideo.jp/watch/sm4748812)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wmKKd6yx2ks?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 |||
 
 ### [Fake Lover](http://www.nicovideo.jp/watch/sm6237621)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s15u9WyRvPE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 |||
 
 ### [Parallel Universe](http://www.nicovideo.jp/watch/sm24606775)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zlga-WPqw1A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ##### MIXが改善されたトリビュートアルバム
