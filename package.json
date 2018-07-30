@@ -40,5 +40,8 @@
     "node-sass": "~4.9.0",
     "socket.io": "^2.1.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "emoji-awesome": "0.0.1"
+  }
 }

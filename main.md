@@ -1,97 +1,65 @@
-# [ボカロLT'18 April](https://atnd.org/events/96358)
-
-<h3>
-    <img src="https://kiito.me/assets/img/icons/tokiwa.png" style="margin:0; background: none; border:0; vertical-align:middle" height=60vw />
-    <a href="https://twitter.com/tkw_fms">Tokiwa</a> (B4)
-</h3>
+# Title
 
 ---
 
-# ジミーサムP ツアー
+~~{:grid-container}~~
+
+## H2
+
+.lead
+
+~~{:left}~~
+
+.description
+- hoge
+	- aaa
+	- aa
+
+~~x~~
+
+~~{:right}~~
+
+![](resources/images/tokiwa.png)
+
+~~x~~
+
+~~{:footer}~~
+
+footer
+
+~~x~~
+
+~~x~~
 
 ---
 
-## [ジミーサムP](https://twitter.com/jimmythumb)
+~~{:grid-container}~~
 
-|||
+## オニオンアーキテクチャ
 
-![](https://pbs.twimg.com/profile_images/522376628509233154/sFIGEdZF_400x400.jpeg)
+~~{:lead}~~
 
-- 2008年から活動している古参ボカロP
-- 動画のサムネが地味なのでジミーサムPと呼ばれるように
-- 心が洗われるような曲が多い
-- 最近は活動していない
+Jeffrey Palermo氏が提唱したアーキテクチャ
+<br>外側の層から内側の層のみ依存関係
 
----
+~~x~~
 
-## 代表曲
+~~{:left}~~
 
-##### みんな知ってる名曲
+.特徴 :mag:
+ - ドメインモデルは完全独立
+   * インフラの寿命は３年
+ - 依存性逆転の法則(DIP)
+   * 内: インタフェースを定義
+   * 外: 具象を実装
+~~x~~
 
-|||
+~~{:right}~~
+![arch{30%}](resources/images/tokiwa.png)
+~~x~~
 
-### [Calc.](http://www.nicovideo.jp/watch/sm12050471)
+~~{:footer}~~
+ 画像出典: [ドメイン駆動 + オニオンアーキテクチャ概略](https://qiita.com/little_hand_s/items/2040fba15d90b93fc124)
+~~x~~
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9VMAYeun4Ds?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-###### 2010/09/09投稿 288万再生
-
-|||
-
-### [from Y to Y](http://www.nicovideo.jp/watch/sm6529016)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CDTiyUm5ggM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-###### 2009/03/24投稿 261万再生
-
----
-
-## イチオシ曲
-
-##### 隠れた良曲
-
-|||
-
-### [No Logic](http://www.nicovideo.jp/watch/sm8228650)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R1rEGFtdIOQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-###### 「完璧な生き方なんてできないから」
-
-|||
-
-### [PYX](http://www.nicovideo.jp/watch/sm20738973)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xvRzylkiC98?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
----
-
-## 駆け出し時代
-
-##### MIXに迷いがあるけど素朴で伝わる曲
-
-|||
-
-### [Pierrot](http://www.nicovideo.jp/watch/sm9621047)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU07aANLUQQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-|||
-
-### [Scene](http://www.nicovideo.jp/watch/sm4748812)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wmKKd6yx2ks?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-|||
-
-### [Fake Lover](http://www.nicovideo.jp/watch/sm6237621)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s15u9WyRvPE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-|||
-
-### [Parallel Universe](http://www.nicovideo.jp/watch/sm24606775)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zlga-WPqw1A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-##### MIXが改善されたトリビュートアルバム
+~~x~~
