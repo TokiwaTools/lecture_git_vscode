@@ -2,17 +2,17 @@
     height: 100%;
     display: grid !important;
     grid-template:
-        "header header  header header" 100px
-        " ...    lead    lead   ...  " 150px
+        "header header  header header" auto
+        " ...    lead    lead   ...  " auto
         " ...    main    main   ...  " 1fr
         " ...    footer footer  ...  " 50px
         / 50px     1fr    1fr   50px;
 }
 
 /* hタグはデフォルトで見出し*/
-[data-markdown] > h1, [data-markdown] h2,
-[data-markdown] > h3, [data-markdown] > h4,
-[data-markdown] > h5 {
+[data-markdown]  h1, [data-markdown] h2,
+[data-markdown]  h3, [data-markdown]  h4,
+[data-markdown]  h5 {
     grid-area: header;
 }
 /* pタグはデフォルトでリード文*/
